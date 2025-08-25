@@ -1,13 +1,16 @@
 
 # Nashville International Airport Flight Delay Analysis
 
-## Table of Contents
-    - Motivation
-    - Data Questions
-    - Problems & Hurdles
-    - Data Dictionary
-    - Tools
-    - Link to Dashboard
+- [Nashville International Airport Flight Delay Analysis](#nashville-international-airport-flight-delay-analysis)
+    - [Motivation](#motivation)
+- [Data Questions](#data-questions)
+    - [Problems \& Hurdles](#problems--hurdles)
+      - [Data Limitations](#data-limitations)
+      - [Data Handling Challenges](#data-handling-challenges)
+    - [Data Dictionary](#data-dictionary)
+    - [Tools](#tools)
+    - [Link to Dashboard](#link-to-dashboard)
+
 ### Motivation
 
 As the travel planner for my family, I always ensure that our vacations run smoothly. The most daunting part is finding a reliable airline that won't disrupt my vacation. Too many times I have booked flights with airlines that end up having frequent delays. It doesn’t matter as much when I am heading home, but it makes a huge difference when I am trying to get to my destination from Nashville. In those moments, all I can do is roll my eyes and take the blame for booking that airline. When it comes to travel, time is money. A delay can mean losing the time I have already paid for, whether it’s a night at a luxurious Airbnb or an excursion booked through Viator. Most of the time, I will not receive a refund for those bookings, and in many cases, the flights themselves are also non-refundable. I need to prioritize every moment while creating the best possible experience. 
