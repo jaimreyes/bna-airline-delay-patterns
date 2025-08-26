@@ -1,15 +1,21 @@
 
 # Nashville International Airport Flight Delay Analysis
 
+### Summary
+
+This project analyzes flight delays for airlines serving Nashville International Airport (BNA), exploring how delays vary by season and time of day. I worked with raw flight performance data from 2022–2024, which involved navigating large, inconsistent datasets from the Bureau of Transportation Statistics. Challenges included missing reports from some carriers, unclear or misleading data labels, and the exclusion of small regional airlines. Transferring and working with this data in Power BI was complex but provided a valuable hands-on learning experience in data cleaning, integration, and analysis.
+
 - [Nashville International Airport Flight Delay Analysis](#nashville-international-airport-flight-delay-analysis)
+    - [Summary](#summary)
     - [Motivation](#motivation)
-- [Data Questions](#data-questions)
+    - [Data Questions](#data-questions)
     - [Problems \& Hurdles](#problems--hurdles)
-      - [Data Limitations](#data-limitations)
-      - [Data Handling Challenges](#data-handling-challenges)
+        - [Data Limitations](#data-limitations)
+        - [Data Handling Challenges](#data-handling-challenges)
     - [Data Dictionary](#data-dictionary)
     - [Tools](#tools)
     - [Link to Dashboard](#link-to-dashboard)
+
 
 ### Motivation
 
@@ -17,7 +23,7 @@ As the travel planner for my family, I always ensure that our vacations run smoo
 
 As a wanderluster, I live for those days when I can step into a new world I’ve dreamed about visiting, and I treasure the memories I know I’ll talk about for years to come. The fate of my family’s vacation often rests on my shoulders, which is exactly why I became so interested in this project. Was I simply biased toward certain airlines when I booked? Or do some airlines truly have more frequent delays? In the end, answering this question wasn’t just about flights—it was about protecting the experiences, the joy, and the memories that make travel so meaningful for me and my family.
 
-# Data Questions
+### Data Questions
   * Which airlines servicing BNA experience the highest rates of flight delays?
   * How do flight delay rates vary by season for airlines at BNA?
   * How do flight delay rates vary by time of day for airlines at BNA?
@@ -25,14 +31,14 @@ As a wanderluster, I live for those days when I can step into a new world I’ve
 
 ### Problems & Hurdles
 
-#### Data Limitations
+##### Data Limitations
   * I had to download raw flight performance data month by month for 2022–2024, which ended up being huge zipped datasets.
   * The Bureau of Transportation Statistics (BTS) has several links and websites, but the data names and databases are not consistent, which made it tricky to navigate.
   * Many carriers don’t report their on-time performance data.
   * Small regional airlines (regional branded code-share partners) are not included in the datasets.
   * Some database value names were unclear or misleading, which made cleaning the data more challenging than expected.
 
-#### Data Handling Challenges
+##### Data Handling Challenges
   * Transferring data to Power BI was not easy, especially when uploading and sharing the dataframe.
   * Working with large, inconsistent datasets was tough but also a really valuable learning experience.
 
