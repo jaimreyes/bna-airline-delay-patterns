@@ -1,10 +1,6 @@
 
 # Nashville International Airport Flight Delay Analysis
 
-### Summary
-
-This project analyzes flight delays for airlines serving Nashville International Airport (BNA), exploring how delays vary by season and time of day. I worked with raw flight performance data from 2022–2024, which involved navigating large, inconsistent datasets from the Bureau of Transportation Statistics. Challenges included missing reports from some carriers, unclear or misleading data labels, and the exclusion of small regional airlines. Transferring and working with this data in Power BI was complex but provided a valuable hands-on learning experience in data cleaning, integration, and analysis.
-
 - [Nashville International Airport Flight Delay Analysis](#nashville-international-airport-flight-delay-analysis)
     - [Summary](#summary)
     - [Motivation](#motivation)
@@ -15,6 +11,12 @@ This project analyzes flight delays for airlines serving Nashville International
     - [Data Dictionary](#data-dictionary)
     - [Tools](#tools)
     - [Link to Dashboard](#link-to-dashboard)
+  
+### Summary
+
+This project analyzes flight delays for airlines serving Nashville International Airport (BNA), exploring how delays vary by season and time of day. I worked with raw flight performance data from 2022–2024, which involved navigating large, inconsistent datasets from the Bureau of Transportation Statistics. Challenges included missing reports from some carriers, unclear or misleading data labels, and the exclusion of small regional airlines. Transferring and working with this data in Power BI was complex but provided a valuable hands-on learning experience in data cleaning, integration, and analysis.
+
+
 
 
 ### Motivation
