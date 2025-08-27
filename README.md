@@ -21,7 +21,7 @@ This project analyzes flight delays for airlines serving Nashville International
 
 As the travel planner for my family, I always ensure that our vacations run smoothly. The most daunting part is finding a reliable airline that won't disrupt my vacation. Too many times I have booked flights with airlines that end up having frequent delays. It doesn’t matter as much when I am heading home, but it makes a huge difference when I am trying to get to my destination from Nashville. In those moments, all I can do is roll my eyes and take the blame for booking that airline. When it comes to travel, time is money. A delay can mean losing the time I have already paid for, whether it’s a night at a luxurious Airbnb or an excursion booked through Viator. Most of the time, I will not receive a refund for those bookings, and in many cases, the flights themselves are also non-refundable. I need to prioritize every moment while creating the best possible experience. 
 
-As a wanderluster, I live for those days when I can step into a new world I’ve dreamed about visiting, and I treasure the memories I know I’ll talk about for years to come. The fate of my family’s vacation often rests on my shoulders, which is exactly why I became so interested in this project. Was I simply biased toward certain airlines when I booked? Or do some airlines truly have more frequent delays? In the end, answering this question wasn’t just about flights—it was about protecting the experiences, the joy, and the memories that make travel so meaningful for me and my family.
+As a wanderluster, I live for those days when I can step into a new world I’ve dreamed about visiting, and I treasure the memories I know I’ll talk about for years to come. The fate of my family’s vacation often rests on my shoulders, which is exactly why I became so interested in this project. Was I simply biased toward certain airlines when I booked? Or do some airlines truly have more frequent delays? In the end, answering this question wasn’t just about flights it was about protecting the experiences, the joy, and the memories that make travel so meaningful for me and my family.
 
 ### Data Questions
   * Which airlines servicing BNA experience the highest rates of flight delays?
@@ -62,6 +62,6 @@ As a wanderluster, I live for those days when I can step into a new world I’ve
   * python
   * powerbi
   * Data Source: 
-    - [Bureau of Transportation Statistics](https://www.bts.gov/)[Bureau pf Transportation Statistics](https://www.bts.gov/)
+    - [Bureau of Transportation Statistics](https://www.bts.gov/)[Bureau of Transportation Statistics](https://www.bts.gov/)
 ### Link to Dashboard
 [Nashville International Airport Flight Delay Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ0YjcxYjYtZThiNC00NmFjLWI2ZmMtNWJkMzBmMWI3ZGU4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
